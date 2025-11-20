@@ -12,7 +12,15 @@ Experto en **Linux, Git y Windows**, siempre aprendiendo nuevas tecnologías.
 
 ---
 
-## 💻 Tecnologias que estoy aprendiendo
+![Pac-Man Contributions](https://github.com/xs3rgii/xs3rgii/blob/output/pacman-contribution-graph-dark.svg)
+
+![Terminal GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
+![Docker GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+---
+
+## 💻 Tecnologías que estoy aprendiendo
 
 ### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,7 +35,6 @@ Experto en **Linux, Git y Windows**, siempre aprendiendo nuevas tecnologías.
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![LXC](https://img.shields.io/badge/LXC-%23000000.svg?style=for-the-badge&logo=linuxcontainers&logoColor=white)
-
 
 ### 🗄️ Bases de Datos
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -48,8 +55,3 @@ Experto en **Linux, Git y Windows**, siempre aprendiendo nuevas tecnologías.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
----
-
-![Pac-Man Contributions](https://github.com/xs3rgii/xs3rgii/blob/output/pacman-contribution-graph-dark.svg)
-
