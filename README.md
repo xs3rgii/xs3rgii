@@ -47,14 +47,3 @@ Aprendiendo el mundo de **Linux, y Windows**, siempre aprendiendo nuevas tecnolo
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xs3rgi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=xs3rgi&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xs3rgi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=xs3rgi&icon=0&color=0)
-
