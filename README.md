@@ -1,10 +1,10 @@
 # 💫 Hola, soy Sergio Roales Garcia
 Estudiante de **ASIR**, apasionado por la **automatización** y la creación de **servidores**.  
-Aprendiendo el mundo de **Linux, y Windows**, siempre aprendiendo nuevas tecnologías.  
+Experto en **Linux, Git y Windows**, siempre aprendiendo nuevas tecnologías.  
 
 ---
 
-## 🌐 Redes sociales
+## 🌐 Conectemos
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s3rgiii_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sergio%20Roales%20Garcia) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xs3rgi_) 
@@ -12,7 +12,7 @@ Aprendiendo el mundo de **Linux, y Windows**, siempre aprendiendo nuevas tecnolo
 
 ---
 
-## 💻 Tecnologias que estoy aprendiendo
+## 💻 Tech Stack
 
 ### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,6 +22,7 @@ Aprendiendo el mundo de **Linux, y Windows**, siempre aprendiendo nuevas tecnolo
 ### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -31,6 +32,7 @@ Aprendiendo el mundo de **Linux, y Windows**, siempre aprendiendo nuevas tecnolo
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ### ☁️ DevOps / Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -47,5 +49,16 @@ Aprendiendo el mundo de **Linux, y Windows**, siempre aprendiendo nuevas tecnolo
 
 ---
 
-![Pac-Man Contributions](https://github.com/xs3rgii/xs3rgii/blob/output/pacman-contribution-graph.svg)
+## 📊 GitHub Stats
+![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xs3rgi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=xs3rgi&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xs3rgi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
 
+---
+
+## 🟡 Pac-Man Contributions
+![Pac-Man Contributions](https://github.com/xs3rgii/xs3rgii/blob/output/pacman-contribution-graph-dark.svg)
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=xs3rgi&icon=0&color=0)
