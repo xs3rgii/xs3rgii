@@ -1,4 +1,4 @@
-# 💫 Hola, soy Sergio Roales Garcia
+# Sergio Roales Garcia
 Estudiante de **ASIR**, apasionado por la **automatización** y la creación de **servidores**.  
 Experto en **Linux, Git y Windows**, siempre aprendiendo nuevas tecnologías.  
 
