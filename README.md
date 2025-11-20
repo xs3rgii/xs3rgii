@@ -1,6 +1,6 @@
 # Sergio Roales Garcia
-Estudiante de **ASIR**, apasionado por la **automatización** y la creación de **servidores**.  
-Experto en **Linux, Git y Windows**, siempre aprendiendo nuevas tecnologías.  
+Soy estudiante de ASIR, actualmente aprendiendo distintas tecnologias. Me gusta mucho la creacion y configuracion
+de servidores, asi como la automatizacion de procesos
 
 ---
 
