@@ -12,7 +12,7 @@ Experto en **Linux, Git y Windows**, siempre aprendiendo nuevas tecnologías.
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tecnologias que estoy aprendiendo
 
 ### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,10 +22,12 @@ Experto en **Linux, Git y Windows**, siempre aprendiendo nuevas tecnologías.
 ### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![LXC](https://img.shields.io/badge/LXC-%23000000.svg?style=for-the-badge&logo=linuxcontainers&logoColor=white)
+
 
 ### 🗄️ Bases de Datos
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
