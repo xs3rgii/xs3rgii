@@ -47,3 +47,7 @@ Experto en **Linux, Git y Windows**, siempre aprendiendo nuevas tecnologías.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+---
+
+![Pac-Man Contributions](https://github.com/xs3rgii/xs3rgii/blob/output/pacman-contribution-graph-dark.svg)
