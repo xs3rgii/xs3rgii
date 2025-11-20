@@ -12,14 +12,6 @@ Experto en **Linux, Git y Windows**, siempre aprendiendo nuevas tecnologías.
 
 ---
 
-![Pac-Man Contributions](https://github.com/xs3rgii/xs3rgii/blob/output/pacman-contribution-graph-dark.svg)
-
-![Terminal GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
-
-![Docker GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
----
-
 ## 💻 Tecnologías que estoy aprendiendo
 
 ### 🖥️ Frontend
