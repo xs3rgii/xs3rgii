@@ -47,3 +47,4 @@ Aprendiendo el mundo de **Linux, y Windows**, siempre aprendiendo nuevas tecnolo
 
 ---
 
+![Pac-Man Contributions](https://github.com/xs3rgi/xs3rgii/blob/output/pacman-contribution-graph.svg)
