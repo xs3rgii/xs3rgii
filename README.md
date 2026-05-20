@@ -49,5 +49,3 @@ de servidores, asi como la automatizacion de procesos
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
-
-![Pac-Man Contributions](https://github.com/xs3rgii/xs3rgii/blob/output/pacman-contribution-graph-dark.svg)
